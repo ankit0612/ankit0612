@@ -2,65 +2,56 @@
 
 ### Senior Backend Engineer | Python | Django | FastAPI | Azure
 
-Senior Backend Engineer with 7+ years of experience building scalable
-backend applications, REST APIs, microservices, cloud-native solutions,
-and third-party integrations.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/the-ankit-shrivastava/">LinkedIn</a> •
+  <a href="https://leetcode.com/u/AnkitShri06/">LeetCode</a> •
+  <a href="mailto:ankitrajsrivastava06@gmail.com">Email</a>
+</p>
 
 ---
 
 ## About Me
 
-I specialize in backend engineering with a focus on Python, API development,
-cloud platforms, integrations, and scalable application architecture.
+Senior Backend Engineer with 7+ years of experience building scalable backend applications, REST APIs, microservices, cloud-native solutions, and third-party integrations.
 
-- 7+ years of professional software development experience
-- Backend development using Python, Django, Django REST Framework, and FastAPI
-- Designed and developed enterprise REST APIs and microservices
-- Built 60+ third-party API integrations
-- Payment integrations with Stripe and Converge
-- Shipping integrations with UPS and FedEx
-- AI-powered application development using OpenAI
-- Data processing and pipelines using PySpark and Microsoft Fabric
-- Authentication and authorization using Azure AD and MSAL
-- CI/CD pipelines and deployments using Azure DevOps
-- Experience with Microsoft SQL Server and PostgreSQL
+My primary focus is backend engineering with Python, Django, FastAPI, Microsoft Azure, relational databases, API integrations, and cloud deployments.
+
+I have worked across the full software development lifecycle, from solution design and API development to deployment, CI/CD, production support, and client-facing technical discussions.
 
 ---
 
 ## Technical Skills
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ### Backend Development
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+`Python` `Django` `Django REST Framework` `FastAPI` `Flask` `Node.js` `REST APIs` `Microservices`
 
 ### Cloud & DevOps
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+`Microsoft Azure` `Azure App Service` `Azure Functions` `Azure DevOps` `CI/CD` `Docker` `AWS`
 
 ### Databases
 
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+`Microsoft SQL Server` `PostgreSQL` `SQLite` `SQLAlchemy`
 
-### Data & AI
+### Authentication & Security
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+`Azure AD` `MSAL` `JWT` `OAuth` `API Authentication` `Azure WAF`
+
+### AI & Data
+
+`OpenAI` `PySpark` `Microsoft Fabric` `OneLake` `Data Pipelines` `RAG`
+
+### Integrations
+
+`Stripe` `Converge` `UPS` `FedEx` `REST APIs` `Third-party Integrations`
 
 ---
 
@@ -68,49 +59,64 @@ cloud platforms, integrations, and scalable application architecture.
 
 ### Backend & API Development
 
-- Enterprise REST API development using Django REST Framework and FastAPI
-- Microservice development and service-to-service communication
-- API authentication and authorization using JWT, Azure AD, and MSAL
-- Database-driven application development using SQL Server and PostgreSQL
-- Third-party API integrations and data synchronization
+- Designed and developed enterprise REST APIs using Django REST Framework and FastAPI.
+- Built scalable backend services and microservice-based applications.
+- Developed authentication and authorization solutions using Azure AD, MSAL, and JWT.
+- Worked with Microsoft SQL Server and PostgreSQL for data-intensive applications.
+- Designed API integrations, data synchronization workflows, and background processing services.
 
 ### Cloud & DevOps
 
-- Application deployment on Microsoft Azure
-- Azure App Services and Azure Functions
-- Azure DevOps CI/CD pipelines
-- Docker-based development and deployment
-- Production troubleshooting, monitoring, and performance optimization
+- Deployed production applications on Microsoft Azure.
+- Built and maintained Azure DevOps CI/CD pipelines.
+- Worked with Azure App Services and Azure Functions.
+- Used Docker for application development and deployment.
+- Investigated and resolved production performance and infrastructure issues.
 
-### Integrations
+### Third-party Integrations
 
-- Stripe payment processing and webhooks
-- Converge payment gateway integration
-- UPS and FedEx shipping integrations
-- Azure AD / MSAL authentication
-- Third-party REST API integrations
+- Built and maintained 60+ third-party API integrations.
+- Payment integrations using Stripe and Converge.
+- Shipping integrations using UPS and FedEx.
+- Worked with webhooks, authentication, API validation, retries, and error handling.
 
-### Data & AI
+### AI & Data Engineering
 
-- PySpark-based data processing
-- Microsoft Fabric Lakehouse and OneLake
-- Data ingestion and transformation pipelines
-- OpenAI integrations for AI-powered applications
-- Document processing and generation workflows
+- Integrated OpenAI into backend applications and business workflows.
+- Built AI-assisted document generation and processing solutions.
+- Developed data processing pipelines using PySpark.
+- Worked with Microsoft Fabric Lakehouse and OneLake.
+- Designed data ingestion and transformation workflows.
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-I use GitHub to document selected engineering projects, experiments,
-interview preparation, and problem-solving exercises.
+### FastAPI Backend Applications
+
+Backend services built with FastAPI, SQLAlchemy, authentication, REST APIs, and relational databases.
+
+### Django REST Applications
+
+Enterprise backend applications using Django, Django REST Framework, SQL Server, authentication, and API integrations.
+
+### AI-powered Applications
+
+Backend solutions integrating OpenAI for document processing, generation, and business workflows.
+
+### Microsoft Fabric Data Pipelines
+
+Data processing and ingestion utilities using PySpark and Microsoft Fabric Lakehouse.
+
+### Payment & Shipping Integrations
+
+API integrations involving Stripe, Converge, UPS, and FedEx, including payment workflows, webhooks, authentication, and error handling.
 
 ### LeetCode Solutions
 
-Python solutions to LeetCode problems with a focus on understanding
-problem-solving patterns rather than memorizing solutions.
+A collection of Python solutions focused on understanding common problem-solving patterns.
 
-**Patterns covered:**
+Current patterns include:
 
 - Two Pointers
 - Sliding Window
@@ -126,7 +132,7 @@ problem-solving patterns rather than memorizing solutions.
 
 ---
 
-## GitHub Analytics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankit0612&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
@@ -136,6 +142,17 @@ problem-solving patterns rather than memorizing solutions.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit0612&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## Currently Working On
+
+- Data Structures and Algorithms
+- Advanced Python
+- Backend System Design
+- API Architecture
+- Cloud Architecture
+- AI and RAG-based applications
 
 ---
 
