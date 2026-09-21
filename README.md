@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
-<<p align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/the-ankit-shrivastava/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
