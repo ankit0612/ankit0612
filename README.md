@@ -65,3 +65,41 @@ scalable backend applications and cloud-native solutions.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit0612&theme=tokyonight" />
 </p>
+
+
+# LeetCode Solutions – Python
+
+My solutions to LeetCode problems while preparing for
+software engineering interviews.
+
+## Patterns Covered
+
+- Two Pointers
+- Sliding Window
+- Hash Map
+- Hash Set
+- Prefix Sum
+- Binary Search
+- Stack
+- Queue
+- Trees
+- Graphs
+- Dynamic Programming
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
